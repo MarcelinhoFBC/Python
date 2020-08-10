@@ -1,0 +1,6 @@
+Erro ao executar<module> import pandas as pd modulenotfounderror: no module named pandas
+
+Tentar instalar:
+
+python -m pip install pandas
+pip install --upgrade pandas
