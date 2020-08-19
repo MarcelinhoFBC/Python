@@ -4,3 +4,5 @@ Tentar instalar:
 
 python -m pip install pandas
 pip install --upgrade pandas
+
+Para rodar um script de navegar na internete é necessário instalar o selenium e depois dentro da pasta do slenium colar o drivechrome de acordo com a versão com o Google Chrome.
